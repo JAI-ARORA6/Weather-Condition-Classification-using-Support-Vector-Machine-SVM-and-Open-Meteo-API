@@ -121,12 +121,4 @@ Actual Warm           3              186
 
 ---
 
-## 📋 Google Form Submission Checklist
-- [x] **Name:** Your Name
-- [x] **Registration Number:** Your Registration Number
-- [x] **Application Number:** Your Application Number
-- [x] **Batch Number:** Your Batch Number
-- [x] **Assignment Number:** Assignment -6
-- [x] **Public GitHub Repository Link:** `<https://github.com/YourUsername/Repository-Name>`
-- [x] **Email Address:** Your Email Address
-- [x] **Google Form Link:** [https://forms.gle/fFL2CFooc5Vb2MXq8](https://forms.gle/fFL2CFooc5Vb2MXq8)
+
